@@ -4,11 +4,11 @@
 ## Contacts:
 
 
-***Location:*** Warsaw, Poland
-***E-mail:*** [kukhmax@gmail.com](kukhmax@gmail.com)
-***Phone:*** +48 884098177
-***Linkedin:*** [Maksim Kukharski](https://www.linkedin.com/in/kukh-max/)
-***Github:*** [kukhmax](https://github.com/kukhmax)
+- ***Location:*** Warsaw, Poland
+- ***E-mail:*** [kukhmax@gmail.com](kukhmax@gmail.com)
+- ***Phone:*** +48 884098171
+- ***Linkedin:*** [Maksim Kukharski](https://www.linkedin.com/in/kukh-max/)
+- ***Github:*** [kukhmax](https://github.com/kukhmax)
 
 
 ## About Me
