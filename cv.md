@@ -6,7 +6,7 @@
 
 - ***Location:*** Warsaw, Poland
 - ***E-mail:*** [kukhmax@gmail.com](kukhmax@gmail.com)
-- ***Phone:*** +48 884098171
+- ***Discord:*** @Maks Kukharski(@kukhmax)
 - ***Linkedin:*** [Maksim Kukharski](https://www.linkedin.com/in/kukh-max/)
 - ***Github:*** [kukhmax](https://github.com/kukhmax)
 
